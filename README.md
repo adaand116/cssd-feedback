@@ -11,3 +11,7 @@ At the time of writing this README this WebApp can be tested at [edu-dev10.sitev
 - `npm run setup-dev-properties` creates .dev-properties.json
 - `npm run create-addon` creates an addon with the name configured in the setup task
 - `npm run dev` watches files for changes and runs `build force-deploy` on save
+
+## WebApp setup on a sitevision site 
+
+The app can be attached to any page but ideally it should be added to a template that is used on each page.
