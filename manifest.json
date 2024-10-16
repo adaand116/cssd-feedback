@@ -1,0 +1,20 @@
+{
+  "id": "feedback",
+  "version": "0.0.1",
+  "name": {
+    "en": "Feedback",
+    "sv": "Feedback"
+  },
+  "author": "Sitevision",
+  "description": {
+    "en": "A WebApp for leaving feedback posts on pages",
+    "sv": "En WebApp för att lämna feedback-inlägg på sidor"
+  },
+  "helpUrl": "",
+  "type": "WebApp",
+  "bundled": true,
+  "maxUploadSizeInMB": 0,
+  "requiredLibs": {
+    "react": "17.0.2"
+  }
+}

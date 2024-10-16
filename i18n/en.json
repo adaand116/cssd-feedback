@@ -1,0 +1,14 @@
+{
+  "settings": "Settings",
+  "somethingWentWrongWhenFetchingPosts": "Something went wrong when fetching feedback posts",
+  "onlyAvailableOnline": "Only available in view mode",
+  "formLabelFeedbackText": "Leave feedback for this page",
+  "formPlaceholderFeedbackText": "Write your feedback here",
+  "formPostFeedbackButton": "Post feedback",
+  "formPostFeedbackSuccessMessage": "Your feedback has successfully been posted",
+  "formPostFeedbackErrorHeading": "Error posting feedback",
+  "formPostFeedbackErrorMessage": "An error occurred when posting your feedback, reason: {0}",
+  "thankYouForYourFeedback": "Thank you for your feedback!",
+  "authorWrote": "{0} wrote:",
+  "postDate": "Posted: {0}"
+}

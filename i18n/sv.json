@@ -1,0 +1,14 @@
+{
+  "settings": "Inställningar",
+  "somethingWentWrongWhenFetchingPosts": "Något gick fel vid inläsningen av feedback-inlägg",
+  "onlyAvailableOnline": "Endast tillgänglig i visningsläget",
+  "formLabelFeedbackText": "Lämna feedback för denna sida",
+  "formPlaceholderFeedbackText": "Skriv din feedback här",
+  "formPostFeedbackButton": "Posta feedback",
+  "formPostFeedbackSuccessMessage": "Din feedback har postats",
+  "formPostFeedbackErrorHeading": "Fel vid postning av feedback",
+  "formPostFeedbackErrorMessage": "Ett fel uppstod vid postning av din feedback, orsak: {0}",
+  "thankYouForYourFeedback": "Tack för din feedback!",
+  "authorWrote": "{0} postade:",
+  "postDate": "Postad: {0}"
+}
